@@ -12,6 +12,8 @@ https://leunghk.shinyapps.io/Mosquito_Microbiome_Venn_Diagram/
 
 https://leunghk.shinyapps.io/Mosquito_Microbiome_Heatmap_Plus/
 
+![Hi alt text](https://github.com/LeungHK/LeungHK-untitled-repository/blob/main/images/machine%20learning%20mosquito.gif)
+
 # Flowchart of methodology from literature review (Mosquito Virome Pipeline projejct)
 ![Hi alt text](https://github.com/LeungHK/MVP/blob/main/mosq%20virome%20workflow.jpg)
 
