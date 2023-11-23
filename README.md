@@ -5,6 +5,7 @@ Hello There!
 Leung Ho Kwan
 
 # R shiny visualization (Mosquito Microbiome Meta-analysis project)
+Interactive figures of results from R analysis
 
 https://leunghk.shinyapps.io/Microbiome_Mosquito_Relative_Abundance_Plot_2/
 
@@ -13,6 +14,7 @@ https://leunghk.shinyapps.io/Mosquito_Microbiome_Venn_Diagram/
 https://leunghk.shinyapps.io/Mosquito_Microbiome_Heatmap_Plus/
 
 # AI image classification of mosquitoes 
+Background removal for mosquito images
 ![Hi alt text](https://github.com/LeungHK/LeungHK-untitled-repository/blob/main/images/machine%20learning%20mosquito.gif)
 ![Hi alt text](https://github.com/LeungHK/LeungHK-untitled-repository/blob/main/images/machine%20learning%20mosquito%202.gif)
 
