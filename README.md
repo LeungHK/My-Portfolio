@@ -1,5 +1,5 @@
-# LeungHK-untitled-repository
-My portfolio
+# My Portfolio
+Hello There!
 
 # Author
 Leung Ho Kwan
