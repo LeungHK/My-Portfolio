@@ -19,7 +19,7 @@ Background removal for mosquito images
 ![Hi alt text](https://github.com/LeungHK/LeungHK-untitled-repository/blob/main/images/machine%20learning%20mosquito%202.gif)
 
 
-# Flowchart of methodology from literature review (Mosquito Virome Pipeline projejct)
+# Flowchart of methodology from literature review (Mosquito Virome Pipeline project)
 ![Hi alt text](https://github.com/LeungHK/MVP/blob/main/mosq%20virome%20workflow.jpg)
 
 # Flowchart of methodology from my MSc project: Transcriptome Mining to Create Catalogues of Spidroin Sequences and Repetitive Motifs
